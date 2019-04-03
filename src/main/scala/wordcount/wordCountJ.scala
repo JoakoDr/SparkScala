@@ -1,3 +1,7 @@
+/*
+Created by Joaquin Diaz
+03/04/2019
+ */
 package wordcount
 
 import org.apache.spark.{SparkConf, SparkContext}
